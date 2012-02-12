@@ -1,0 +1,15 @@
+LIBRARY "p2pdll.dll"
+
+EXPORTS
+	
+	si2p_register_user		@1
+	si2p_query_user		@2
+	si2p_p2p_init		@3
+	si2p_node_leave		@4
+	si2p_node_join		@5
+	si2p_node_start		@6
+	si2p_node_start2	@7
+
+	si2p_get_node_state		@8
+
+	cmdloop				@9
