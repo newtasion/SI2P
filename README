@@ -1,0 +1,21 @@
+
+
+
+A DHT(Chord, http://en.wikipedia.org/wiki/Chord_(peer-to-peer)) implementation based on Session Initiation Protocol (http://en.wikipedia.org/wiki/Session_Initiation_Protocol)
+
+
+Output: C++ library
+Exports: 
+	si2p_register_user
+	si2p_query_user	
+	si2p_p2p_init
+	si2p_node_leave
+	si2p_node_join
+	si2p_node_start
+	si2p_node_start2
+	si2p_get_node_state
+	cmdloop
+
+
+
+
